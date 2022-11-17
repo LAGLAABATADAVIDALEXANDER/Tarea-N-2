@@ -7,9 +7,13 @@ Ing:Darwin Omar Alulema
 
 1.1Objetivo general
 
+Leer comprender y manipular de forma adecuada las unidades y magnitudes que representan la energía y la potencia En un circuito eléctrico para poder aplicarlo a la resolución de problemas
 
 1.2Objetivos especificos
 
+Conocer y comprender de forma adecuada la ley de Ohm para así poder relacionar las tres unidades fundamentales de la electricidad de manera eficiente y sencilla de manera tal que podamos realizar cálculos de este sin ninguna dificultad
+
+Manipular y trabajar con la potencia y la energía relacionándola con la ley de Ohm y los circuitos eléctricos para comprender mejor el funcionamiento de estás cantidad
 2,Marco teorico 
 
 ![image](https://user-images.githubusercontent.com/116814386/202370146-9b2ac7f0-c29b-4d6d-beb5-6df2f8a43bd2.png)
@@ -235,3 +239,10 @@ En ese intervalo de tiempo la potencia se mantiene igual
 
 ![image](https://user-images.githubusercontent.com/116814386/202388783-e42c24be-b347-49a6-b506-56409a2f5fa0.png)
 
+4. Video
+
+5. Conclusión
+
+Se pudo entender de manera más clara la relación que existe entre las unidades de la ley de Ohm con la potencia y la energía Además de que se encendió su funcionamiento y algunos principios para la localización de fallas en un circuito eléctrico de manera más eficiente
+
+6 bibliografía
