@@ -153,6 +153,10 @@ la resistencia del ejercicio 20 es 36.4 Ω y el voltaje es de 12V
 
 33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
 
+![image](https://user-images.githubusercontent.com/116814386/202734704-8a4f4f7b-6ea0-4a01-8682-d3d66e04044b.png)
+
+El problema del circuito es que si la resistencia baja hasta 0 habra un cortocircuito.
+
 ![image](https://user-images.githubusercontent.com/116814386/202381675-754b71e3-0a7f-4235-b501-13087f7017d8.png)
 
 35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A. 
@@ -221,7 +225,12 @@ En ese intervalo de tiempo la potencia se mantiene igual
 
 27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
 
+Al calcular el 20% y sumarle a 8 W OBTENEMOS 9.6W por lo que lo recomendable seria usar 12 W
+
 29. Una carga de 50Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+
+![image](https://user-images.githubusercontent.com/116814386/202739956-d8691860-138e-467e-b6f8-12cb3d93aa7a.png)
+
 
 31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
 
@@ -246,3 +255,5 @@ En ese intervalo de tiempo la potencia se mantiene igual
 Se pudo entender de manera más clara la relación que existe entre las unidades de la ley de Ohm con la potencia y la energía Además de que se encendió su funcionamiento y algunos principios para la localización de fallas en un circuito eléctrico de manera más eficiente
 
 6 bibliografía
+
+http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
