@@ -137,9 +137,15 @@ la resistencia del ejercicio 20 es 36.4 Ω y el voltaje es de 12V
  
 (a) Corriente
 
+![image](https://user-images.githubusercontent.com/116814386/202754470-361a6827-5b64-4086-8f34-599166ff9d08.png)
 
 (b) Caída de voltaje en el resistor
+
+![image](https://user-images.githubusercontent.com/116814386/202754789-8c2d4a8f-1a38-4fda-896a-787678a2b933.png)
+
 (c) Caída de voltaje a través de cada tramo de alambre
+
+![image](https://user-images.githubusercontent.com/116814386/202755024-3a1ec5ee-2bc9-43e2-874b-0271bc8232fa.png)
 
 29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 
@@ -249,6 +255,8 @@ Al calcular el 20% y sumarle a 8 W OBTENEMOS 9.6W por lo que lo recomendable ser
 ![image](https://user-images.githubusercontent.com/116814386/202388783-e42c24be-b347-49a6-b506-56409a2f5fa0.png)
 
 4. Video
+
+https://youtu.be/8mIxgcO2Cvg
 
 5. Conclusión
 
